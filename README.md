@@ -9,7 +9,7 @@
   </a>
 </div>
 
-A passionate java backend developer🚀 having an experience of building android and desktop applications. Also have experience python development.
+A passionate java developer🚀 having an experience of building android and desktop applications. Also have experience python development.
 ---
 ### :man_technologist: About Me :
 I am Java Developer from Russia.
