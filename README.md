@@ -9,7 +9,7 @@
   </a>
 </div>
 
-A passionate java developer🚀 having an experience of building android and desktop applications. Also have experience python development.
+A passionate java developer🚀 having an experience of building android, web, REST applications. Also have experience python development.
 ---
 ### :man_technologist: About Me :
 I am Java Developer from Russia.
@@ -27,4 +27,7 @@ I am Java Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Spring" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="PostgreSQL" **alt="Git" width="40" height="40"/>
+  
 </div>
