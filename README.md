@@ -9,11 +9,11 @@
   </a>
 </div>
 
-A passionate java developer🚀 having an experience of building android, web, REST applications. Also have experience python development.
+A passionate android developer🚀 having an experience of building android, web, REST applications. Also have experience python development.
 ---
 ### :man_technologist: About Me :
-I am Java Developer from Russia.
-- :telescope: I'm trying to find a job as a Java developer.
+I am Android Developer from Russia.
+- :telescope: I'm trying to find a job as a Android developer.
 
 - :books: Computer science student.
 
